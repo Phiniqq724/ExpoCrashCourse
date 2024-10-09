@@ -38,7 +38,7 @@ const Search = () => {
         ListEmptyComponent={() => (
           <EmptyState
             title={"No Videos Found"}
-            subtitle={"Try searching for something else"}
+            subtitle={"Try searching for something else or"}
           />
         )}
       />
